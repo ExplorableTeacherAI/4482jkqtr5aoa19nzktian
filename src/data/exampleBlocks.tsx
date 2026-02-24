@@ -193,9 +193,7 @@ const exampleBlocks: ReactElement[] = [
     <StackLayout key="layout-paragraph-02" maxWidth="xl">
         <Block id="block-paragraph-02" padding="sm">
             <EditableParagraph id="para-intro-2" blockId="block-paragraph-02">
-                Here's another paragraph to demonstrate that multiple paragraphs
-                can be edited independently. Each paragraph maintains its own state
-                and editing session.
+                Here's another paragraph to demonstrate that multiple paragraphs can be edited independently. Each paragraph maintains its
             </EditableParagraph>
         </Block>
     </StackLayout>,
