@@ -224,19 +224,19 @@ const exampleBlocks: ReactElement[] = [
         </Block>
     </StackLayout>,
 
-    <StackLayout key="layout-block-1771924489690" maxWidth="xl">
-        <Block id="block-1771924489690" padding="sm">
-            <EditableH1 id="h1-block-1771924489690" blockId="block-1771924489690">
-                heading test
-            </EditableH1>
-        </Block>
-    </StackLayout>,
-
     <StackLayout key="layout-block-1771924557659" maxWidth="xl">
         <Block id="block-1771924557659" padding="sm">
             <EditableParagraph id="para-block-1771924557659" blockId="block-1771924557659">
                 this is test
             </EditableParagraph>
+        </Block>
+    </StackLayout>,
+
+    <StackLayout key="layout-block-1771924489690" maxWidth="xl">
+        <Block id="block-1771924489690" padding="sm">
+            <EditableH1 id="h1-block-1771924489690" blockId="block-1771924489690">
+                heading test
+            </EditableH1>
         </Block>
     </StackLayout>,
 
