@@ -198,39 +198,6 @@ const exampleBlocks: ReactElement[] = [
         </Block>
     </StackLayout>,
 
-    <StackLayout key="layout-block-1771924489690" maxWidth="xl">
-        <Block id="block-1771924489690" padding="sm">
-            <EditableH1 id="h1-block-1771924489690" blockId="block-1771924489690">
-                heading test
-            </EditableH1>
-        </Block>
-    </StackLayout>,
-
-    <StackLayout key="layout-block-1771926841091" maxWidth="xl">
-        <Block id="block-1771926841091" padding="sm">
-            <EditableParagraph id="para-block-1771926841091" blockId="block-1771926841091">
-                new test
-            </EditableParagraph>
-        </Block>
-    </StackLayout>,
-
-    <StackLayout key="layout-block-1771924879727" maxWidth="xl">
-        <Block id="block-1771924879727" padding="sm">
-            <EditableParagraph id="para-block-1771924879727" blockId="block-1771924879727">
-                <InlineScrubbleNumber defaultValue={1} min={0} max={100} step={1} varName="var_inlineScrubbleNumber-1771924898885" />
-            </EditableParagraph>
-        </Block>
-    </StackLayout>,
-
-    <StackLayout key="layout-block-1771927571226" maxWidth="xl">
-        <Block id="block-1771927571226" padding="sm">
-            <EditableParagraph id="para-block-1771927571226" blockId="block-1771927571226">
-                this is test with scrubble number{" "}
-                <InlineScrubbleNumber id="inlineScrubbleNumber-1771927594571" defaultValue={1} min={0} max={100} step={1} varName="var_inlineScrubbleNumber-1771927594571" />
-            </EditableParagraph>
-        </Block>
-    </StackLayout>,
-
     // ========================================
     // INLINE COMPONENTS DEMO
     // ========================================
