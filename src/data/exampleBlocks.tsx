@@ -221,7 +221,7 @@ const exampleBlocks: ReactElement[] = [
             <EditableParagraph id="para-block-1771924445290" blockId="block-1771924445290">
                 hi{" "}
                 {"  "}
-                <InlineFormula latex="x^2" />
+                <InlineFormula latex="\clr{xtest}{x}^2" colorMap="{{ 'name': '#ef4444', 'x': '#ef4444', 'xt': '#ef4444', 'xte': '#ef4444', 'xtes': '#ef4444', 'xtest': '#ef4444' }}" />
             </EditableParagraph>
         </Block>
     </StackLayout>,
