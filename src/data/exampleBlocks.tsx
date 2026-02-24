@@ -240,6 +240,14 @@ const exampleBlocks: ReactElement[] = [
         </Block>
     </StackLayout>,
 
+    <StackLayout key="layout-block-1771924879727" maxWidth="xl">
+        <Block id="block-1771924879727" padding="sm">
+            <EditableParagraph id="para-block-1771924879727" blockId="block-1771924879727">
+                <InlineScrubbleNumber defaultValue={10} min={0} max={100} step={1} varName="var_inlineScrubbleNumber-1771924898885" />
+            </EditableParagraph>
+        </Block>
+    </StackLayout>,
+
     // ========================================
     // INLINE COMPONENTS DEMO
     // ========================================
