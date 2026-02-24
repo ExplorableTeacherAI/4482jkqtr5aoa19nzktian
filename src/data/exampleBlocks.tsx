@@ -190,42 +190,6 @@ const exampleBlocks: ReactElement[] = [
         </Block>
     </StackLayout>,
 
-    <StackLayout key="layout-block-1771918871550" maxWidth="xl">
-        <Block id="block-1771918871550" padding="sm">
-            <EditableParagraph id="para-block-1771918871550" blockId="block-1771918871550">
-                hello test
-            </EditableParagraph>
-        </Block>
-    </StackLayout>,
-
-    <StackLayout key="layout-block-1771919502383" maxWidth="xl">
-        <Block id="block-1771919502383" padding="sm">
-            <EditableParagraph id="para-block-1771919502383" blockId="block-1771919502383">
-                wewe. wewew
-            </EditableParagraph>
-        </Block>
-    </StackLayout>,
-
-    <StackLayout key="layout-block-1771924445290" maxWidth="xl">
-        <Block id="block-1771924445290" padding="sm">
-            <EditableParagraph id="para-block-1771924445290" blockId="block-1771924445290">
-                hi{" "}
-                {"  "}
-                <InlineFormula latex="\clr{xtest}{x}^2" colorMap="{{ 'name': '#ef4444', 'x': '#ef4444', 'xt': '#ef4444', 'xte': '#ef4444', 'xtes': '#ef4444', 'xtest': '#ef4444' }}" />
-            </EditableParagraph>
-        </Block>
-    </StackLayout>,
-
-    <StackLayout key="layout-block-1771924557659" maxWidth="xl">
-        <Block id="block-1771924557659" padding="sm">
-            <EditableParagraph id="para-block-1771924557659" blockId="block-1771924557659">
-                this is test{" "}
-                {"  "}
-                <InlineSpotColor color="#3B82F6" varName="var_inlineSpotColor-1771936063293">variable</InlineSpotColor>
-            </EditableParagraph>
-        </Block>
-    </StackLayout>,
-
     <StackLayout key="layout-block-1771924489690" maxWidth="xl">
         <Block id="block-1771924489690" padding="sm">
             <EditableH1 id="h1-block-1771924489690" blockId="block-1771924489690">
