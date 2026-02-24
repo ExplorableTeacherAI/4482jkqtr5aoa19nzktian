@@ -240,6 +240,14 @@ const exampleBlocks: ReactElement[] = [
         </Block>
     </StackLayout>,
 
+    <StackLayout key="layout-block-1771926841091" maxWidth="xl">
+        <Block id="block-1771926841091" padding="sm">
+            <EditableParagraph id="para-block-1771926841091" blockId="block-1771926841091">
+                new test
+            </EditableParagraph>
+        </Block>
+    </StackLayout>,
+
     <StackLayout key="layout-block-1771924879727" maxWidth="xl">
         <Block id="block-1771924879727" padding="sm">
             <EditableParagraph id="para-block-1771924879727" blockId="block-1771924879727">
