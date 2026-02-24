@@ -200,6 +200,14 @@ const exampleBlocks: ReactElement[] = [
         </Block>
     </StackLayout>,
 
+    <StackLayout key="layout-block-1771918871550" maxWidth="xl">
+        <Block id="block-1771918871550" padding="sm">
+            <EditableParagraph id="para-block-1771918871550" blockId="block-1771918871550">
+                hello test
+            </EditableParagraph>
+        </Block>
+    </StackLayout>,
+
     // ========================================
     // INLINE COMPONENTS DEMO
     // ========================================
