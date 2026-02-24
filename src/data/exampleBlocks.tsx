@@ -256,6 +256,15 @@ const exampleBlocks: ReactElement[] = [
         </Block>
     </StackLayout>,
 
+    <StackLayout key="layout-block-1771927571226" maxWidth="xl">
+        <Block id="block-1771927571226" padding="sm">
+            <EditableParagraph id="para-block-1771927571226" blockId="block-1771927571226">
+                this is test with scrubble number{" "}
+                <InlineScrubbleNumber id="inlineScrubbleNumber-1771927594571" defaultValue={1} min={0} max={100} step={1} varName="var_inlineScrubbleNumber-1771927594571" />
+            </EditableParagraph>
+        </Block>
+    </StackLayout>,
+
     // ========================================
     // INLINE COMPONENTS DEMO
     // ========================================
