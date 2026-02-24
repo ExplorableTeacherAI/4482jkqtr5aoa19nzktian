@@ -229,7 +229,9 @@ const exampleBlocks: ReactElement[] = [
     <StackLayout key="layout-block-1771924557659" maxWidth="xl">
         <Block id="block-1771924557659" padding="sm">
             <EditableParagraph id="para-block-1771924557659" blockId="block-1771924557659">
-                this is test
+                this is test{" "}
+                {"  "}
+                <InlineSpotColor color="#3B82F6" varName="var_inlineSpotColor-1771936063293">variable</InlineSpotColor>
             </EditableParagraph>
         </Block>
     </StackLayout>,
