@@ -219,7 +219,9 @@ const exampleBlocks: ReactElement[] = [
     <StackLayout key="layout-block-1771924445290" maxWidth="xl">
         <Block id="block-1771924445290" padding="sm">
             <EditableParagraph id="para-block-1771924445290" blockId="block-1771924445290">
-                hi
+                hi{" "}
+                {"  "}
+                <InlineFormula latex="x^2" />
             </EditableParagraph>
         </Block>
     </StackLayout>,
